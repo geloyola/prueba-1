@@ -1,2 +1,3 @@
 # prueba-1
-este es mi primer repositorio
+Este es mi primer repositorio
+repaso en clases
